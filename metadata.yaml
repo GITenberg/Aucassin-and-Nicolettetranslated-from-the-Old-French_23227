@@ -13,6 +13,8 @@ covers:
 description: "Aucassin et Nicolette (12th or 13th century) is an anonymous medieval\
   \ French chantefable, or combination of prose and verse (literally, a \"sung story\"\
   , similar to a prosimetrum).\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23227#Aucassin-and-Nicolettetranslated-from-the-Old-French
 gutenberg_issued: '2007-10-28'
 gutenberg_type: Text
 identifiers:
